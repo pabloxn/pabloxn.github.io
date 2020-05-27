@@ -2,17 +2,24 @@
 
 ## Main Menu
 
+![](.gitbook/assets/screenshot-2020-05-28-at-00.25.37.png)
+
 Down the left hand side is the main menu. Depending on your role it will displays different pages of InClinic e.g. dashboard, dairy, tasks, reports.
 
-![Arrow icon to minimise the menu](.gitbook/assets/screenshot-2019-05-18-at-11.49.20.png)
-
-At the top right of the main menu you will see an arrow icon. Click on this icon to collapse the menu, showing icons only. The menu will change to pointing to the right. If you click this icon it will expand to the full menu \(with icons and text\). The menu will collapse automatically when you select a page.
-
-At the bottom of the left hand side is your user icon where you can sign-out of InClinic.
+On tasks is a badge to show the number of active tasks. At the bottom is the time, date and which company you are logged into.
 
 ## Title Bar
 
-Across the top of the remainder of the screen is the title bar which shows you what area you are looking at.
+Across the top of the remainder of the screen is the title bar.
 
-At the far side is the current time and a "?" button that will bring you here to the user-guidance.
+![](.gitbook/assets/screenshot-2020-05-28-at-00.26.03.png)
+
+On the left side is the label to show where you are in the application. On the far right is four controls. 
+
+|  |  |
+| :--- | :--- |
+| ![](.gitbook/assets/search.svg) Search Clients | This is an area to search for active clients |
+| ![](.gitbook/assets/comments-alt.svg)  | This opens an SMS communication area |
+| ![](.gitbook/assets/question-circle.svg)  | Opens this help documentation |
+| PN | This is user avatar. When clicked will open a menu with 3 options: 1. CPD 2. My Details 3. Log Out |
 
