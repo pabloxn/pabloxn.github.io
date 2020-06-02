@@ -6,7 +6,7 @@ description: This is where you can look at the clinic/clinicians diaries.
 
 ## Overview
 
-![](../../.gitbook/assets/screenshot-2020-05-27-at-16.11.49.png)
+[https://vimeo.com/425158201](https://vimeo.com/425158201)
 
 There is three main areas:
 

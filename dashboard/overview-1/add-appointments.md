@@ -6,6 +6,8 @@ This is where you add or Edit an appointment. The appointment contains informati
 
 ## How Do I add a new appointment?
 
+[https://vimeo.com/425158455](https://vimeo.com/425158455)
+
 There are a few methods of adding a new appointment:
 
 * Via the client wizard \([See Client Add Wizard](../clients/overview-1/addwizard.md)\). This is completely dealt with on the Add Wizard page and is not covered here. 
