@@ -6,7 +6,7 @@ This is where you add or Edit an appointment. The appointment contains informati
 
 ## How Do I add a new appointment?
 
-[https://vimeo.com/425158455](https://vimeo.com/425158455)
+{% embed url="https://vimeo.com/425158455" %}
 
 There are a few methods of adding a new appointment:
 
