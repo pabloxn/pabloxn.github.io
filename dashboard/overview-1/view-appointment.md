@@ -20,7 +20,7 @@ This are three sections in the view appointment:
    3. ![](../../.gitbook/assets/users.svg) Attendees - It shows the practitioner and client. The client has an arrow next to jump to the clients details.
    4. The confirmed status of the appointment: ![](../../.gitbook/assets/square.svg) Unconfirmed ![](../../.gitbook/assets/check-square.svg) Confirmed
 
-## How to view the appointment view
+## How to open the appointment view
 
 1. Click on an appointment in the diary view to view appointment details.
 
