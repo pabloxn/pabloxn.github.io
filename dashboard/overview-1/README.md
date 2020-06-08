@@ -61,3 +61,5 @@ If you click on an "empty slot" then you can add an appointment to that slot or 
 
 {% page-ref page="add-appointments.md" %}
 
+{% page-ref page="view-appointment.md" %}
+

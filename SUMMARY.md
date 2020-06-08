@@ -19,6 +19,7 @@
     * [How do I time the appointment?](dashboard/clinic-1/faq/how-do-i-time-the-appointment.md)
 * [Diary](dashboard/overview-1/README.md)
   * [Add/Edit Appointments](dashboard/overview-1/add-appointments.md)
+  * [View Appointment](dashboard/overview-1/view-appointment.md)
 * [Clients](dashboard/clients/README.md)
   * [Clients List](dashboard/clients/overview-1/README.md)
     * [Untitled](dashboard/clients/overview-1/untitled.md)

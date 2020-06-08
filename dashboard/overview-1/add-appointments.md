@@ -35,5 +35,5 @@ There are a few methods to edit an appointment:
 * Via the schedular \([See Diary](./#overview)\)
 * Via the client diary \([See Client Diary](../clients/diary/)\)
 
-1. In the client diary click on the ellipses at the end of the relevant entry and click edit or in the main diary either click on an active appointment. For the fields description see above.
+1. In the client diary click on the ellipses at the end of the relevant entry and click edit or in the main diary either click on an active appointment and then from the appointment view click the ![](../../.gitbook/assets/pen.svg) . For the fields description see above.
 
