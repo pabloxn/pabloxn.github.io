@@ -20,7 +20,7 @@ This gives access to the contacts details, stats, documents, prices, invoices, e
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/screenshot-2020-06-08-at-14.10.22.png"
+        <img src="../../../.gitbook/assets/screenshot-2020-06-08-at-14.10.22.png"
         alt/>
       </td>
       <td style="text-align:left">

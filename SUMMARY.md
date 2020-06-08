@@ -47,7 +47,13 @@
     * [Create Correspondence](dashboard/clients/action/create-correspondence.md)
 * [Contacts](dashboard/contacts-1/README.md)
   * [Contact List](dashboard/contacts-1/contact-list.md)
-  * [Contact View](dashboard/contacts-1/contact-view.md)
+  * [Contact View](dashboard/contacts-1/contact-view/README.md)
+    * [Overview](dashboard/contacts-1/contact-view/overview.md)
+    * [Details](dashboard/contacts-1/contact-view/details.md)
+    * [Documents](dashboard/contacts-1/contact-view/documents.md)
+    * [Diary](dashboard/contacts-1/contact-view/diary.md)
+    * [Queries](dashboard/contacts-1/contact-view/queries.md)
+    * [Invoices](dashboard/contacts-1/contact-view/invoices.md)
 * [Venues](dashboard/venues-1/README.md)
   * [List](dashboard/venues-1/untitled.md)
   * [Add/Edit](dashboard/venues-1/add-edit.md)
@@ -85,6 +91,7 @@
 
 ## Misc.
 
+* [Invoicing](misc./invoicing.md)
 * [Directory](misc./directory.md)
 * [Documents](misc./documents.md)
 * [Word Templates](misc./word-templates.md)
