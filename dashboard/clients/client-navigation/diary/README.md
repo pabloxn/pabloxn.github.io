@@ -1,6 +1,6 @@
 # Diary
 
-![Clients Diary Overview](../../../.gitbook/assets/screenshot-2020-01-28-at-18.24.55.png)
+![Clients Diary Overview](../../../../.gitbook/assets/screenshot-2020-01-28-at-18.24.55.png)
 
 This page will show any appointments past or future for a client.
 

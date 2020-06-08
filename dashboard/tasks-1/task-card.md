@@ -87,7 +87,5 @@ Deleting the task is a big deal - You cannot delete tasks that are part of a cha
 
 This opens the client page. See link below for further information:
 
-{% page-ref page="../clients/client-details.md" %}
-
 
 

@@ -12,7 +12,7 @@ There are a few methods of adding a new appointment:
 
 * Via the client wizard \([See Client Add Wizard](../clients/overview-1/addwizard.md)\). This is completely dealt with on the Add Wizard page and is not covered here. 
 * Via the schedular \([See Diary](./#overview)\)
-* Via the client diary \([See Client Diary](../clients/diary/)\)
+* Via the client diary \([See Client Diary](../clients/client-navigation/diary/)\)
 
 1. Click on ![](../../.gitbook/assets/screenshot-2019-01-23-at-13.22.51.png) in client diary or in the main diary either click on an appointment labeled 'Empty Slot' or select ' ![](../../.gitbook/assets/plus.svg) Add Appointment' from the action menu on the toolbar.
 2. A dialog will open. If the appointment was selected by using the client diary then the client details will be filled in and if from the 'Empty Slot' then fill in clinic information. ![](../../.gitbook/assets/screenshot-2020-05-27-at-16.56.35.png) 
@@ -33,7 +33,7 @@ There are a few methods of adding a new appointment:
 There are a few methods to edit an appointment:
 
 * Via the schedular \([See Diary](./#overview)\)
-* Via the client diary \([See Client Diary](../clients/diary/)\)
+* Via the client diary \([See Client Diary](../clients/client-navigation/diary/)\)
 
 1. In the client diary click on the ellipses at the end of the relevant entry and click edit or in the main diary either click on an active appointment and then from the appointment view click the ![](../../.gitbook/assets/pen.svg) . For the fields description see above.
 

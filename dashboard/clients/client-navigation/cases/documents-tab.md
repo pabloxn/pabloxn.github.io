@@ -4,7 +4,7 @@
 
 The document tab lists all the documents that have been uploaded into inClinic for this case. These are the documents required by the administrator to write up the draft report.
 
-![Documents tab showing uploaded documents](../../../.gitbook/assets/image%20%283%29.png)
+![Documents tab showing uploaded documents](../../../../.gitbook/assets/image%20%283%29.png)
 
 At the top of the tab on the left side you have a **search** function and on the right a **SELECT FILES...** button, then below this a list of the files that have been uploaded showing 
 
@@ -29,7 +29,7 @@ The new document will be uploaded and added to the bottom of the list.
 
 ### Downloading files
 
-![Download icon](../../../.gitbook/assets/image%20%281%29.png)
+![Download icon](../../../../.gitbook/assets/image%20%281%29.png)
 
 * Click on the **download** icon to the right of the document list
 
@@ -41,7 +41,7 @@ Depending on how your computer is configured this will either;
 
 ### Delect document
 
-![Delete icon](../../../.gitbook/assets/image%20%287%29.png)
+![Delete icon](../../../../.gitbook/assets/image%20%287%29.png)
 
 * Click on the **delete** icon
 * a pop up will ask "Are you sure you want to delete this file?"

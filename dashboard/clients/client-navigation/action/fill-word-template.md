@@ -8,11 +8,11 @@ When you have a task to write a report the task will appear in your list. Click 
 
 At the top right of the screen is an **Action** button \(see below\)
 
-![](../../../.gitbook/assets/0.png)
+![](../../../../.gitbook/assets/0.png)
 
 Click on this button to active a drop down list and select **Fill Word Template.** This will open a pop-up window **Word Template.**
 
-![](../../../.gitbook/assets/1.png)
+![](../../../../.gitbook/assets/1.png)
 
 Once open you will need to click on the **Select Files...** button, navigate to the templates and **open** the required template. This will return you to the pop-up which will now show the selected template \(Adult RTC v2-0.docx in this example\).
 
