@@ -41,6 +41,7 @@ description: Data items
 | Interview Date | Date of attended appointment | Date | 04/05/19 | {appointment.date} |
 | Interview Time | Appointment Time | Time | 13:30 | {appointment.time} |
 | Arrive Time | Appointment recommended arrival time | Time | 13:15 | {appointment.arriveTime} |
+| Interview Duration | Appointment Duration | Minutes | 45 | {appointment.duration} |
 | Age at Interview | The claimants age at the interview date | Text | 41 Years | {client.ageAtAppt} |
 | Psychologist | Report author | Text | Dr Crazy Mann | {clinician.name} |
 
