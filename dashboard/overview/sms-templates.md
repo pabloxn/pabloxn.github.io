@@ -11,7 +11,7 @@ description: >-
 SMS templates are a list of templates that are used to create messages to clients either manually or via an event occurring. You can assign SMS templates to activate when a appointment is created or via the SMS chat sidebar. You can also set a message to arrive in the future. You will need to make sure that the FireText section in [integrations ](general/integrations-tab.md#firetext)is set up to use this functionality.
 
 {% hint style="info" %}
- SMS templates can create useful reminders and confirmations to your clients without the user having to enter them.
+SMS templates can create useful reminders and confirmations to your clients without the user having to enter them.
 {% endhint %}
 
 ## How do I create an SMS template?

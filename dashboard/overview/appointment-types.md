@@ -32,7 +32,7 @@ Appointment Types are a definition of appointments, include their standard durat
     3. Select the duration of the appointment for this clinician.
     4. click the ![](../../.gitbook/assets/check.svg) to save the entry.
 11. In the third tab you can select the chargeable items attached to this appointment:
-    1.  You can now choose chargeable items/services to attach to the appointment. Click the ![](../../.gitbook/assets/screenshot-2019-01-23-at-13.22.51.png) Add button after the task template field.
+    1. You can now choose chargeable items/services to attach to the appointment. Click the ![](../../.gitbook/assets/screenshot-2019-01-23-at-13.22.51.png) Add button after the task template field.
     2. In the line choose a type \(item or service\), this is required.
     3. Choose an item or or service in the next field, this is required.
     4. The description is filled in automatically but can be changed.

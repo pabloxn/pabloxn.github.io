@@ -11,7 +11,7 @@ This is used in a few areas of inClinic and relates to working out a second date
 | + | Add a period of time |
 | - | Subtract a period of time |
 
-#### Examples
+## Examples
 
 These are all based from calculating from 11/09/2019.
 

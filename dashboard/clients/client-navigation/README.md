@@ -2,7 +2,7 @@
 
 ## Overview
 
-After clicking on the client you will see the client navigation and client overview. 
+After clicking on the client you will see the client navigation and client overview.
 
 A client is the person who the practitioner treats.
 
@@ -24,11 +24,11 @@ On clicking this you will be presented with a list of actions:
 
 |  |  |
 | :--- | :--- |
-| [Log Call]() | Opens the call log dialog |
+| [Log Call](./) | Opens the call log dialog |
 | [Create Correspondence](action/create-correspondence.md) | Opens the create Correspondence page |
-| [Fill Word Template]() | Opens the fill word template dialog |
+| [Fill Word Template](./) | Opens the fill word template dialog |
 | [Add Appoin](../../overview-1/add-appointments.md)[tment](../../overview-1/add-appointments.md) | Opens the Add appointment dialog |
-| [Delete Client]() | Deletes client |
+| [Delete Client](./) | Deletes client |
 
 #### Menu Buttons
 

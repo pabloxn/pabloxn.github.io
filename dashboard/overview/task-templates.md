@@ -8,10 +8,10 @@ description: >-
 
 ## What are workflow templates?
 
-Workflow templates are a list of tasks that are used to create active tasks for users when an event has occurred. You can assign workflow templates to an appointment and when the appointment is complete  you are then asked if you want to create the tasks associated with it.
+Workflow templates are a list of tasks that are used to create active tasks for users when an event has occurred. You can assign workflow templates to an appointment and when the appointment is complete you are then asked if you want to create the tasks associated with it.
 
 {% hint style="info" %}
- Workflow Templates are the super power to creating automated workflow in your business.
+Workflow Templates are the super power to creating automated workflow in your business.
 {% endhint %}
 
 ## How do I create a workflow template?
@@ -45,5 +45,5 @@ Workflow templates are a list of tasks that are used to create active tasks for 
 
 ## How do I reorder a workflows steps?
 
-This is quite simple to do. All you need to do is grab the ![](../../.gitbook/assets/screenshot-2019-09-26-at-16.26.27.png)icon which will pick up the line and drag it to the correct position the  tasks will be renumbered automatically.
+This is quite simple to do. All you need to do is grab the ![](../../.gitbook/assets/screenshot-2019-09-26-at-16.26.27.png)icon which will pick up the line and drag it to the correct position the tasks will be renumbered automatically.
 

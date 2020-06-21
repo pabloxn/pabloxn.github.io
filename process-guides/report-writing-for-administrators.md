@@ -4,7 +4,7 @@ description: User guides for the various process associated with writing up a dr
 
 # Report writing for Administrators
 
-### Collating supporting documents
+## Collating supporting documents
 
 1. On the main menu click on **Tasks** 
 2. Click on the **task**
@@ -19,6 +19,4 @@ description: User guides for the various process associated with writing up a dr
 In the above steps when you click on the Tasks menu this will show you your tasks.
 
 Clicking on the relevant task will take you into the case for that task.
-
-
 

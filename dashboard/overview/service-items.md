@@ -17,5 +17,3 @@ Service Items are the chargeable service items to assign to an appointment. The 
 5. Now you can add the price, its unit of measure and the VAT assigned to it.
 6. Once you have done that you can click the ![](../../.gitbook/assets/screenshot-2019-03-21-at-12.58.35.png) Save button and you will be taken back to the list view.
 
-
-

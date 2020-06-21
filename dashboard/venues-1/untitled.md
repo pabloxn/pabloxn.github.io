@@ -6,7 +6,7 @@ description: Shows all the venues and information related to them
 
 ## Overview
 
-This shows a list of venues by card. Each card shows a location, opening times and buttons to further tasks. 
+This shows a list of venues by card. Each card shows a location, opening times and buttons to further tasks.
 
 ![](../../.gitbook/assets/docs_venuecard01.png)
 
@@ -29,6 +29,4 @@ There are two page action see at the top of the page.
 ## Search
 
 There is a search field at the top right which will filter the clinic cards down by name and address.
-
-
 

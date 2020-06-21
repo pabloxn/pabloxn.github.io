@@ -9,7 +9,7 @@ description: Letter templates are templates to automate the creation of correspo
 Letter templates are here to create automated correspondence, which can be sent as emails or exported as a document \(Word or PDF\). These are used in the create correspondence action in a client or via the [workflow templates](task-templates.md).
 
 {% hint style="info" %}
- Letter templates can create useful reminders and confirmations to your clients without the user having to type them.
+Letter templates can create useful reminders and confirmations to your clients without the user having to type them.
 {% endhint %}
 
 ## How do I create an letter template?
@@ -28,10 +28,4 @@ Letter templates are here to create automated correspondence, which can be sent 
 1. Under settings choose 'Letter Templates'
 2. Click the entry in the list that you want to edit.
 3. Follow steps 3 to 8 above.
-
-
-
-
-
-
 

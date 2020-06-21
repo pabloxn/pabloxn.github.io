@@ -22,7 +22,7 @@ There are several ways to filter your tasks to enable you to work better:
 
 ### Bulk Actions
 
-It is possible to manipulate more than one task at a time use bulk actions. 
+It is possible to manipulate more than one task at a time use bulk actions.
 
 How to do this:
 
@@ -33,13 +33,11 @@ How to do this:
 
 ### Add a task
 
-To add a task click the '![](../../.gitbook/assets/plus.svg) Add' button. 
+To add a task click the '![](../../.gitbook/assets/plus.svg) Add' button.
 
 ### Assign Tasks
 
 This opens the [Assign Tasks](assign-tasks.md) page to allow users to reassign tasks to other users.
-
-
 
 #### Related Links
 

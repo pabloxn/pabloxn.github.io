@@ -6,7 +6,7 @@ description: This is where you can look at the clinic/clinicians diaries.
 
 ## Overview
 
-{% embed url="https://vimeo.com/425158201" %}
+{% embed url="https://vimeo.com/425158201" caption="" %}
 
 There is three main areas:
 
@@ -16,15 +16,15 @@ There is three main areas:
 
 ### Toolbar
 
-The toolbar above the schedular is for views and navigation of the schedular. 
+The toolbar above the schedular is for views and navigation of the schedular.
 
 The left side is for navigation:
 
 | Label | Purpose |
 | :--- | :--- |
 | TODAY | Moves the schedular to todays date. |
-| ![](../../.gitbook/assets/chevron-left.svg)  | Move the previous time period \(defined by the view\) |
-| ![](../../.gitbook/assets/chevron-right.svg)  | Move to the next time period \(defined by the view\) |
+| ![](../../.gitbook/assets/chevron-left.svg) | Move the previous time period \(defined by the view\) |
+| ![](../../.gitbook/assets/chevron-right.svg) | Move to the next time period \(defined by the view\) |
 | The Date | Clicking on this will expose a calendar for navigation. The calendar show the clinic days with an indicator under the date. It is mainly for information. |
 | WEEK | Changes the view of the schedular \(defaults to WEEK\). The options are Day,Week, Month Agenda |
 | ACTION | Action menu includes 2 options:  1. Create Clinic Sheet 2. Add Appointment |
@@ -42,7 +42,7 @@ Finally below that is the two filters:
 
 ### Schedular
 
-The schedular is there to show appointment and clinic Days. On the top you will see schedular you will see the clinic 
+The schedular is there to show appointment and clinic Days. On the top you will see schedular you will see the clinic
 
 ![](../../.gitbook/assets/screenshot-2020-03-09-at-12.08.01.png)
 

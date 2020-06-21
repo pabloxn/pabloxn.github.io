@@ -9,7 +9,7 @@ From the diary view you can view the appointment details without going into the 
 This are three sections in the view appointment:
 
 1. Actions Toolbar
-   1.  ![](../../.gitbook/assets/check-square.svg) Confirm/ ![](../../.gitbook/assets/square.svg)Un-confirm appointment - You can confirm or un-confirm an appointment by clicking this.
+   1. ![](../../.gitbook/assets/check-square.svg) Confirm/ ![](../../.gitbook/assets/square.svg)Un-confirm appointment - You can confirm or un-confirm an appointment by clicking this.
    2. ![](../../.gitbook/assets/trash.svg) Delete appointment - Delete the appointment.
    3. ![](../../.gitbook/assets/pen.svg) Edit appointment - Edit the appointment.
    4. ![](../../.gitbook/assets/times.svg) Close dialog
@@ -27,6 +27,4 @@ This are three sections in the view appointment:
 ## How to confirm/un-confirm an appointment
 
 1. Click on the first button in the header. If the button appear as ![](../../.gitbook/assets/check-square.svg) then it will confirm the appointment and if appears as ![](../../.gitbook/assets/square.svg)then it will set the appointment as unconfirmed.
-
-
 

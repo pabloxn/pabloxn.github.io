@@ -17,17 +17,15 @@ This consists of two main areas:
 
   | Icon | Meaning |
   | :--- | :--- |
-  | ![](../../.gitbook/assets/docs_question01.png)  | Awaiting - This is the appointments initial status |
-  | ![](../../.gitbook/assets/clipboard-check.svg)  | Arrived - This is an optional status and only applies if you are using a front desk to register that someone has arrived at the premises . |
-  | ![](../../.gitbook/assets/docs_cancel.png)  | Did Not Attend/Cancelled |
-  | ![](../../.gitbook/assets/docs_tick.png)  | Attended |
+  | ![](../../.gitbook/assets/docs_question01.png) | Awaiting - This is the appointments initial status |
+  | ![](../../.gitbook/assets/clipboard-check.svg) | Arrived - This is an optional status and only applies if you are using a front desk to register that someone has arrived at the premises . |
+  | ![](../../.gitbook/assets/docs_cancel.png) | Did Not Attend/Cancelled |
+  | ![](../../.gitbook/assets/docs_tick.png) | Attended |
 
-## Walkthroughs 
+## Walkthroughs
 
 [How do I open the appointment?](faq/how-do-i-open-the-appointment.md)
 
 [How do I view my clinic appointments?](faq/how-do-i-view-my-clinic-appointments.md)
-
-## 
 
 1. 

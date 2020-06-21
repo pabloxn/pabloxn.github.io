@@ -10,9 +10,7 @@ FireText is a third party service for the sending and receiving of SMS messages.
 
 There are several fields to fill in as described below:
 
-#### API Key 
+### API Key
 
 This is the security key that is supplied by FireText and is required to enable this to function.
-
-
 

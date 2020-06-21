@@ -4,7 +4,7 @@ description: Data items
 
 # Data Dictionary
 
-### Report data items
+## Report data items
 
 | Data Item | Description | Type | Example | Field Name |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ description: Data items
 | Age at Interview | The claimants age at the interview date | Text | 41 Years | {client.ageAtAppt} |
 | Psychologist | Report author | Text | Dr Crazy Mann | {clinician.name} |
 
-### pipes
+## pipes
 
 You can manipulate certain fields with a pipe \|. A pipe sits in the the curly brackets after the field name. The pipe name is then added.
 
@@ -53,7 +53,7 @@ You can manipulate certain fields with a pipe \|. A pipe sits in the the curly b
 
 e.g. {case.clientAge\|dateLong}
 
-#### strings
+### strings
 
 Manipulates a string
 
@@ -61,7 +61,7 @@ Manipulates a string
 | :--- | :--- | :--- | :--- |
 | capitalise | Changes the first character to uppercase | {client.pronouns.himher\|capitalise} | Her |
 
-#### dates
+### dates
 
 format dates
 
@@ -71,7 +71,7 @@ format dates
 | dateMedium | This is a short text version of the date | {client.dob\|dateMedium} | 1 Feb 1973 |
 | dateLong | This long text version of the date | {client.dob\|dateLong} | 1 February 1973 |
 
-#### time
+### time
 
 format time
 
@@ -80,7 +80,7 @@ format time
 | time24 | This is the default format | {appointment.time} or {appointment.time\|time24} | 13:30 |
 | time12 | This is time with am/pm | {appointment.time\|time12} | 1:30 pm |
 
-### generic items
+## generic items
 
 | Data item | Description | Db name |
 | :--- | :--- | :--- |
@@ -91,21 +91,21 @@ format time
 | parent | father/mother | {client.pronouns.parent} |
 | report date | today's date | {today} |
 
-### Stats
+## Stats
 
 | Data Item | Descritpion | Db name |
 | :--- | :--- | :--- |
 | Client DNA Total | Clients Did Not Attend total | {client.stats.dnaTotal} |
 
-### Items not currently in database
+## Items not currently in database
 
 | Data Item | Description | Type | Example |
 | :--- | :--- | :--- | :--- |
 | Expert name | Medical or GP report writer | Text | Mr Wright |
 | Pre-Driving Anxiety | Pre-incident driving anxiety score | Numerical | 2 |
 | Post-Driving Anxiety | Post-incident driving anxiety score | Numerical | 6 |
-| Pre-Passenger Anxiety | Pre-incident passenger anxiety score | Numerical  | 1 |
-| Post-Passenger Anxiety | Post-incident passenger anxiety score | Numerical  | 7 |
+| Pre-Passenger Anxiety | Pre-incident passenger anxiety score | Numerical | 1 |
+| Post-Passenger Anxiety | Post-incident passenger anxiety score | Numerical | 7 |
 | Pre-Mood Level | Pre-incident mood level score | Numerical | 4 |
 | Post-Mood Level | Post-incident mood level score | Numerical | 6 |
 | Reports | medical / GP / Hospital / Therapy / 1st |  |  |

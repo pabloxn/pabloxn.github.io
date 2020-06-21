@@ -8,7 +8,7 @@ description: Diagnostic Frameworks are the supporting information for case diagn
 
 The diagnostic frameworks are a list of diagnosis. The list includes the code, the title and the description. This is assigned to a client after diagnosis has occurred by the clinician.
 
-## How to create a Diagnostic Framework? 
+## How to create a Diagnostic Framework?
 
 1. Under settings choose 'Diagnostic Frameworks'
 2. Click the ![](../../.gitbook/assets/screenshot-2019-01-23-at-13.22.51.png)Add button and you will the Diagnostic Framework Form.
@@ -21,7 +21,7 @@ The diagnostic frameworks are a list of diagnosis. The list includes the code, t
 
 1. Click the ![](../../.gitbook/assets/screenshot-2019-01-23-at-13.22.51.png) Add button below the description field or click the ![](../../.gitbook/assets/screenshot-2020-01-28-at-23.22.21.png) edit button at the end of the appropriate workflow step. This will show the edit form:
 
-   ![](../../.gitbook/assets/screenshot-2020-03-24-at-14.51.56.png) 
+   ![](../../.gitbook/assets/screenshot-2020-03-24-at-14.51.56.png)
 
 2. \[Required\] The first field to enter is the diagnostic Code.
 3. \[Required\] The second field is the title or short name of the diagnosis.

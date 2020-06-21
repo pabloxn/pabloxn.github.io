@@ -33,9 +33,3 @@ This is where you add or edit a venue. The venue is where you run clinics from. 
 1. Click on![](../../.gitbook/assets/docs_edit01.png)on the required venue card.
 2. follow steps  2 to 12 above.
 
-
-
-
-
-
-

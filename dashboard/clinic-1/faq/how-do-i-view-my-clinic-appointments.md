@@ -1,6 +1,6 @@
 # How do I view my clinic appointments?
 
-The date is set to today by default and the relevant clinic for today is preselected. So you should see a list clients below the date selector and the venue selector. 
+The date is set to today by default and the relevant clinic for today is preselected. So you should see a list clients below the date selector and the venue selector.
 
 If however you want to look at a clinic in the future then:
 

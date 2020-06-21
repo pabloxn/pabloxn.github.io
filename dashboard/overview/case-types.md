@@ -21,7 +21,7 @@ Case Types are a definition of cases, which is fundamentally a collection of app
 7. If you have more than 1 session set then you will have access to a initial default appointment type and more than 2 then a final appointment type.
 8. Once you have done that you can click the ![](../../.gitbook/assets/screenshot-2019-03-21-at-12.58.35.png) Save button and you will be taken back to the list view.
 
-#### Related Links <a id="related-links"></a>
+### Related Links <a id="related-links"></a>
 
 {% page-ref page="appointment-types.md" %}
 

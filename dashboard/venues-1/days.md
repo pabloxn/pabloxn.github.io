@@ -34,9 +34,3 @@ Click the![](../../.gitbook/assets/docs_selectclinician01.png)dropdown and selec
 1. Click the![](../../.gitbook/assets/docs_selectclinician01.png)dropdown and select the clinician that you wish to create the days for.
 2. Then click the![](../../.gitbook/assets/docs_delete01.png)button at the end of the day you want to delete.
 
-##  
-
-
-
-
-

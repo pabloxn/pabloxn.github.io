@@ -35,18 +35,17 @@ This gives access to the contacts details, stats, documents, prices, invoices, e
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>This is the contacts name.</p>
-        <p></p>
         <p><b>Menu Items</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li><b>Overview - </b>An overview stats page.</li>
-          <li><b>Details - </b>A page to edit and view the contact details.</li>
-          <li><b>Documents - </b>A place to hold contact specific documents.</li>
-          <li><b>Diary - </b>The appointments that have been assigned to clients received
+          <li><b>Overview -</b> An overview stats page.</li>
+          <li><b>Details -</b> A page to edit and view the contact details.</li>
+          <li><b>Documents -</b> A place to hold contact specific documents.</li>
+          <li><b>Diary -</b> The appointments that have been assigned to clients received
             from these contacts.</li>
-          <li><b>Queries - </b>The Queries received from this contact.</li>
-          <li><b>Invoices - </b>The Invoices that this contact has to pay.</li>
+          <li><b>Queries -</b> The Queries received from this contact.</li>
+          <li><b>Invoices -</b> The Invoices that this contact has to pay.</li>
         </ul>
         <p><b>Address</b>
         </p>
