@@ -4,6 +4,8 @@
 
 ## Overview <a id="overview-2"></a>
 
+---
+
 * [Navigation](navigation.md)
 
 ## Main Menu <a id="dashboard"></a>
@@ -64,6 +66,7 @@
   * [Edit the Task](dashboard/tasks-1/edit-the-task.md)
   * [Assign Tasks](dashboard/tasks-1/assign-tasks.md)
   * [Additional Case Information](dashboard/tasks-1/additional-case-information.md)
+  * [OCR View](dashboard/tasks-1/ocr-view.md)
 * [CPD](dashboard/cpd-1/README.md)
   * [Untitled](dashboard/cpd-1/untitled.md)
 * [Management Console](dashboard/management-console/README.md)

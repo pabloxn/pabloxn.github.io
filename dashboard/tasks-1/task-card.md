@@ -25,6 +25,7 @@ The display contains two main areas the header and the tabs area:
    | ![](../../.gitbook/assets/docs_tasks_actions05.png)  | Add additional information to the case |
    | ![](../../.gitbook/assets/docs_tasks_actions06.png)  | Delete Task |
    | ![](../../.gitbook/assets/docs_tasks_actions07.png)  | View Client |
+   | ![](../../.gitbook/assets/file-image.svg)   View OCR | Convert multiple images to Text |
 
 4. The task description and client name
 5. The due date of the task.
@@ -36,7 +37,7 @@ The tab areas are for interaction and further information:
 | Tab Name | Description |
 | :--- | :--- |
 | ![](../../.gitbook/assets/docs_tabs01.png)  | The overview shows related information to the task like the client, case, and incident information and also show a comment input area. |
-| ![](../../.gitbook/assets/docs_tabs02.png)  | The documents shows case or queries documents.. See [Documents](../../misc./documents.md). |
+| ![](../../.gitbook/assets/docs_tabs02.png)  | The documents tab shows the case or the queries documents.. See [Documents](../../misc./documents.md). |
 | ![](../../.gitbook/assets/docs_tabs03.png)  | This shows case notes. |
 | ![](../../.gitbook/assets/docs_tabs04.png)  | This shows any queries related to the case. |
 | ![](../../.gitbook/assets/docs_tabs06.png)  | This shows all charges related to the parent\(eg. appointment\) |
@@ -71,7 +72,7 @@ This opens a dialog to fill a word template. For more information see the link b
 
 ### ![](../../.gitbook/assets/briefcase-medical.svg) Add Case Information
 
-Thos opens a dialog to add additional case information.
+This opens a dialog to add additional case information.
 
 {% page-ref page="additional-case-information.md" %}
 
@@ -86,6 +87,12 @@ Deleting the task is a big deal - You cannot delete tasks that are part of a cha
 ### ![](../../.gitbook/assets/arrow-right.svg) View the client
 
 This opens the client page. See link below for further information:
+
+### ![](../../.gitbook/assets/file-image.svg) View OCR
+
+This opens a dialog box to enable the upload of images to convert to text.
+
+{% page-ref page="ocr-view.md" %}
 
 
 
