@@ -73,6 +73,7 @@
   * [Untitled](dashboard/management-console/untitled.md)
 * [Reports](dashboard/reports-1/README.md)
   * [List](dashboard/reports-1/untitled.md)
+  * [Card](dashboard/reports-1/card.md)
 * [Settings](dashboard/overview/README.md)
   * [Company](dashboard/overview/general/README.md)
     * [General \(Tab\)](dashboard/overview/general/general-tab.md)

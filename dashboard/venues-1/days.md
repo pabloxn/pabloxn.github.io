@@ -19,9 +19,8 @@ Click the![](../../.gitbook/assets/docs_selectclinician01.png)dropdown and selec
 3. First enter the date, this will automatically fill the start and end time of the bookable day. It gets this from the defaults set in [venue details](add-edit.md).
 4. \[optional\] You can edit the start time.
 5. \[optional\] You can edit the end time.
-6. \[optional\] You can enter a break start time \(e.g. for lunch\).
-7. \[optional\] You can enter a break end time.
-8. Either click![](../../.gitbook/assets/docs_tick.png)to save the day or click![](../../.gitbook/assets/docs_cancel.png)to cancel the entry.
+6. \[optional\] You can enter a break start time \(e.g. for lunch\) and end time for mu.tiple breaks by clicking the add button and filling in the two fields and pressing the add.
+7. Either click![](../../.gitbook/assets/docs_tick.png)to save the day or click![](../../.gitbook/assets/docs_cancel.png)to cancel the entry.
 
 ## How do I edit a bookable day?
 
