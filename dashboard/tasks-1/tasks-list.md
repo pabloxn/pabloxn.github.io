@@ -43,5 +43,5 @@ This opens the [Assign Tasks](assign-tasks.md) page to allow users to reassign t
 
 #### Related Links
 
-{% page-ref page="../overview/task-templates.md" %}
+{% page-ref page="../overview/task-templates/" %}
 
