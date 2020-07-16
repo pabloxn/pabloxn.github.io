@@ -46,5 +46,5 @@ Appointment Types are a definition of appointments, include their standard durat
 
 {% page-ref page="stock-items.md" %}
 
-{% page-ref page="task-templates/" %}
+{% page-ref page="workflow-templates/" %}
 
