@@ -18,7 +18,7 @@ Once open you will need to click on the **Select Files...** button, navigate to 
 
 Click on **UPLOAD**
 
-Within no more than 2 seconds the word document will be created. Depending on your computer's configuration you will either see the document or will be prompted to open the file using word - if prompted click **OK** to open in Word.
+Within no more than 2 seconds the word document will be created. Depending on your computer's configuration you will either see the document, be prompted to open the file using word, or need to retreive the document from your browser's downloaded files.
 
 You will now have a template open which has a pre-populated fields such as Claimant name, full name, DoB, Address, etc. You can now continue with the normal transcription of the report.
 
