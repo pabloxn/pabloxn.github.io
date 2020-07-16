@@ -84,7 +84,7 @@
     * [Integrations \(Tab\)](dashboard/overview/general/integrations-tab.md)
   * [Case Types](dashboard/overview/case-types.md)
   * [Workflow Templates](dashboard/overview/workflow-templates/README.md)
-    * [Appointment Notification \(AN\) Workflow](dashboard/overview/workflow-templates/appointment-notification-an-workflow.md)
+    * [Appointment Notification \(AN\) Workflow](dashboard/overview/workflow-templates/appointment-notification-workflow.md)
   * [Service Items](dashboard/overview/service-items.md)
   * [Stock Items](dashboard/overview/stock-items.md)
   * [Appointment Types](dashboard/overview/appointment-types.md)
