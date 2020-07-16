@@ -9,7 +9,7 @@ description: The area gives a quick area to assign tasks to other users.
 Reassigning a task is a straight forward process.You can use the Assign tasks page  where you just need to drag a task from one column to another or you can also reassign the task if you edit the task.
 
 {% hint style="info" %}
-Tasks are assigned depending on whom is set as the clinician admin support in [user settings](../overview/users.md)
+Tasks are assigned depending on whom is set as the clinician admin support in [user settings](../settings/users.md)
 {% endhint %}
 
 ## Reassigning Task

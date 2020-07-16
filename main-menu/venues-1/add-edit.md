@@ -25,7 +25,7 @@ This is where you add or edit a venue. The venue is where you run clinics from. 
    3. Specify the end time of the venue day.
 9. In the Default Slot \(min\) specify the default appointment length. 
 10. \[optional\] Select the Directory tab.This where the venue email or telephone details are stored. See the [directory section](../../misc./directory.md) for further information.
-11. \[optional\] Select the Documents tab. This is where documents are stored for the venues. If specified this will be available in the [letter template](../overview/letter-templates.md). See the [documents section ](../../misc./documents.md)for further information.
+11. \[optional\] Select the Documents tab. This is where documents are stored for the venues. If specified this will be available in the [letter template](../settings/letter-templates.md). See the [documents section ](../../misc./documents.md)for further information.
 12. Click![](../../.gitbook/assets/screenshot-2020-01-31-at-10.47.16.png)to save the venue.
 
 ## How Do I edit a venue?

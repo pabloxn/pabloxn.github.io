@@ -16,11 +16,11 @@ The appointment has two triggers \(Triggers are activities that activate other e
 
 The first trigger is the creation of the appointment. When this occurs:
 
-* It creates scheduled SMS Messages from the [SMS Templates](../../../overview/sms-templates.md) if the SMS systems has been set up.
+* It creates scheduled SMS Messages from the [SMS Templates](../../../settings/sms-templates.md) if the SMS systems has been set up.
 
 #### Attendance 
 
 The second trigger is when the clinician records the attendence of the client.
 
-* It creates the tasks from the Task Templates that were assigned to the [Appointment Types](../../../overview/appointment-types.md) in the appointment.
+* It creates the tasks from the Task Templates that were assigned to the [Appointment Types](../../../settings/appointment-types.md) in the appointment.
 

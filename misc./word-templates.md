@@ -10,7 +10,7 @@ A word document needs to have the fields typed into it. The fields list is locat
 
 {% page-ref page="../technical-user-guides/data-dictionary.md" %}
 
-The fields list is the same as the ones used in the [letter templates](../dashboard/overview/letter-templates.md) an the [SMS templates](../dashboard/overview/sms-templates.md). 
+The fields list is the same as the ones used in the [letter templates](../main-menu/settings/letter-templates.md) an the [SMS templates](../main-menu/settings/sms-templates.md). 
 
 If I wanted to add the clients full name and age to a document I would look up the two relevant fields:
 

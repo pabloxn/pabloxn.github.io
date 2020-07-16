@@ -20,7 +20,7 @@ There are a few methods of adding a new appointment:
 4. \[**Required**\] This next field is the venue and defines where the appointment will take place.
 5. \[**Required**\] Then is the **Clinician** field and this defines which the clinician the client will see.
 6. \[**Required**\] The **Case** field will automatically fill in if the client has only one case, otherwise you can select from the drop down list.
-7. \[**Required**\] The **Appointment Type** is selectable from a drop down list. The appointment type defines many features of the appointment. \([See Appointment Type](../overview/appointment-types.md)\). When you select this it will define some information in the appointment. \(Such as what happens when the appointment is attended\). It will also set the appointment duration and the charges assigned to the appointment.
+7. \[**Required**\] The **Appointment Type** is selectable from a drop down list. The appointment type defines many features of the appointment. \([See Appointment Type](../settings/appointment-types.md)\). When you select this it will define some information in the appointment. \(Such as what happens when the appointment is attended\). It will also set the appointment duration and the charges assigned to the appointment.
 8. **Duration \(min\)** sets the length of the appointment. So automatically setting the end time.
 9. **Confirmed** sets whether the client has confirmed that they will attend. ![](../../.gitbook/assets/screenshot-2020-05-27-at-23.43.17.png) 
 10. **Date** sets the appointment dates by clicking the required available clinic date \(see above\)

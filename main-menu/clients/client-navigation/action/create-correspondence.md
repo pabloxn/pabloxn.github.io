@@ -8,7 +8,7 @@ description: >-
 
 ## Getting Started
 
-You need to make sure that you have created  at least one [letter template](../../../overview/letter-templates.md).
+You need to make sure that you have created  at least one [letter template](../../../settings/letter-templates.md).
 
 {% hint style="info" %}
  Letter templates enable you create a letter that has fields that will automatically fill in when used in this page.

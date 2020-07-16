@@ -9,7 +9,7 @@ description: User guides for the various process associated with writing up a dr
 1. On the main menu click on **Tasks** 
 2. Click on the **task**
 3. Click on the **Document** tab
-4. [Download](../dashboard/clients/client-navigation/cases/documents-tab.md#downloading-files) the following to your local computer to work on
+4. [Download](../main-menu/clients/client-navigation/cases/documents-tab.md#downloading-files) the following to your local computer to work on
    1. Annotated template e.g. _Dorian McTesty First.pdf_
    2. Medical records e.g. _Dorian McTesty Recs.docx_
    3. Client Quesionnaire e.g. _Dorian McTesty q.pdf_
