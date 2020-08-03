@@ -33,6 +33,7 @@
       * [Untitled](main-menu/clients/client-navigation/cases/untitled.md)
       * [Details \(tab\)](main-menu/clients/client-navigation/cases/details-tab.md)
       * [Notes \(tab\)](main-menu/clients/client-navigation/cases/notes-tab.md)
+      * [Timeline \(tab\)](main-menu/clients/client-navigation/cases/timeline-tab.md)
       * [Comments \(tab\)](main-menu/clients/client-navigation/cases/comments-tab.md)
       * [Documents \(tab\)](main-menu/clients/client-navigation/cases/documents-tab.md)
       * [Queries \(tab\)](main-menu/clients/client-navigation/cases/queries-tab.md)

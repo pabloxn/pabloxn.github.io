@@ -37,6 +37,7 @@ This area has a several tabs which cover different areas. Below is a description
 | Notes | You can add notes on the session here. |
 | Documents | You can upload case documents here. \(e.g. hand written notes scanned in session\) |
 | Charges | Shows the charges related to this appointment |
+| Timeline | Shows the clients timeline [\(see Case timeline\)](../clients/client-navigation/cases/timeline-tab.md) |
 
 ### Activating the task templates
 
