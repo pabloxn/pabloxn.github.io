@@ -93,6 +93,7 @@
   * [Letter Templates](main-menu/settings/letter-templates.md)
   * [Users](main-menu/settings/users.md)
   * [Diagnostic Frameworks](main-menu/settings/diagnostic-frameworks.md)
+  * [Scheduled Jobs](main-menu/settings/scheduled-jobs.md)
 
 ## Misc.
 
