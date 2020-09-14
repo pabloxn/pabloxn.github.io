@@ -2,17 +2,17 @@
 
 ## Overview
 
-![](../../.gitbook/assets/screenshot-2020-06-08-at-12.44.02.png)
+![](../../.gitbook/assets/screenshot-2020-09-14-at-13.23.23.png)
 
-The page is split into three areas:
+The page is split into five areas:
 
-1. ToolBar
+1. Toolbar
 2. Filter Bar
-3. Contact List
+3. Contact List Header
+4. Contact List
+5. Contact List Footer
 
 ### Toolbar
-
-The toolbar has on the left shows the number of contacts. It is split into the number on contacts showing versus what is available.
 
 The right hand side has three buttons:
 
@@ -26,16 +26,20 @@ The right hand side has three buttons:
 
 This has one field to enter a text filter indicated by a ![](../../.gitbook/assets/search.svg) icon. This will filter the contact list by any text entered into this field.
 
-### Table Header
+### Contact List Header
 
 This contains the header information for the table. It has two features:
 
-1. Sort: If you click on any of the headers it will sort to that field. If you click it again it will reverse the sort and clicking it again will remove the sort.
+1. Sort: If you click on any of the headers it will sort to that field. If you click it again it will reverse the sort and clicking it again will remove the sort. The direction is indicated by an arrow, next to the column title.
 2. Filter: Each field is filterable by clicking on the ![](../../.gitbook/assets/filter.svg) icon and a small pop-up will open giving you options to consider.
 
 ### Contact List
 
 This is the list of available contacts. If you wish to open one click the line.
+
+### Contact List Footer
+
+Shows a navigator for working through the records and a number showing where you are and how many records there are. 
 
 
 
