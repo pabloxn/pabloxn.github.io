@@ -4,30 +4,40 @@ description: Add Client Wizard Button
 
 # Add Wizard
 
-  
-**Stage 1: Client Details**
+### Overview
 
-Enter the Client Information
+This is the move convenient method to add a new client. It covers the creation of the client, the case, associated documents and the initial appointment. 
 
-·      Title
+### **How to use the wizard**
 
-·      forename
+The wizard steps you through several sections. In each section you must fill in all required fields before being able to progress to the next. You can navigate backwards and forwards through the completed sections by using the 'previous' and 'next' buttons, if you wish to correct or review what you have entered before saving.
 
-·      surname
+**Section 1: Client Details**
 
-·      gender – this may be pre-populated based on the title
+Enter the Client Information:
 
-·      DoB
+1. Enter the title field.
 
-·      Registered Clinic – the clinic closest to the client’s home address
+   **Note:** The title field will set the gender in some cases. e.g. if Mr is selected then the gender will be set to Male.
 
-·      Clinician – as requested in the LOI
+2.  Enter the forename
+3. **\[Required\]** Enter the last name.
+4. Enter the gender.
+5. Enter the Date of Birth.
 
-·      Address – client address
+   **Note:** The date of birth will be added to the timeline automatically on saving.
 
-**NB: Client Information will be used to populate the report so extra care must be taken here.**
+6. **\[Required\]** Select the Registered Clinic from the drop down. This would be normally be the clinic closest to the client address.
 
-·      Click on **next** to go to the Contact Info.
+   **Note:** If you set the postcode field and press return the closest clinic will be suggested.
+
+7. **\[Required\]** Select the clinician from the drop down. This can de dictated by the letter of instruction or the therapy clients preference.
+8. Enter the address fields.
+9. Click on the next button to go to the next section \(Contact Info.\)
+
+{% hint style="info" %}
+**Client Information will be used to populate the report so extra care must be taken here.**
+{% endhint %}
 
   
 **Stage 2: Contact Info**
@@ -143,7 +153,7 @@ o   Click on the **tick** to save the manifest record
 
 ·      Send an appointment confirmation to the client and IP \(see Correspondence\)\[DC1\] \[DC2\] 
 
- \[DC1\]Move this to the online help
-
- \[DC2\]But not this bit
+{% hint style="info" %}
+**When the wizard is complete the date of birth and date of incident are used to create entries in the clients case timeline.**
+{% endhint %}
 
