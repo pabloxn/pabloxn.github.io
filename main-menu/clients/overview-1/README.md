@@ -19,7 +19,7 @@ The right hand side has three buttons:
 | :--- | :--- |
 | ![](../../../.gitbook/assets/screenshot-2020-06-08-at-12.55.54.png)  | This exports the client list to a pdf |
 | + Add Wizard | This opens the add client wizard. |
-| ![](../../../.gitbook/assets/docs_add01.png)  | This open the Add client page |
+|   | This open the Add client page |
 
 ### Filter Bar
 

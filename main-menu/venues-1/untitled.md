@@ -24,7 +24,7 @@ There are two available task actions which are visible at the bottom of each car
 There are two page action see at the top of the page.
 
 1. Clicking![](../../.gitbook/assets/docs_stats01.png)will take the user to the venues [statistics page](statistics.md).
-2. Clicking![](../../.gitbook/assets/docs_add01.png)opens the [add/edit page](add-edit.md) to create a new venue.
+2. Clickingopens the [add/edit page](add-edit.md) to create a new venue.
 
 ## Search
 

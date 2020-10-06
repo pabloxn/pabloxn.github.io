@@ -20,7 +20,7 @@ The right hand side has three buttons:
 | :--- | :--- |
 | ![](../../.gitbook/assets/screenshot-2020-06-08-at-12.55.54.png)  | This exports the contact list to a pdf |
 | ![](../../.gitbook/assets/screenshot-2020-02-01-at-15.28.40.png)  | This opens the contacts stats page |
-| ![](../../.gitbook/assets/docs_add01.png)  | This open the Add contact page |
+|   | This open the Add contact page |
 
 ### Filter Bar
 
