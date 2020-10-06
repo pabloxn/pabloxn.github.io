@@ -56,6 +56,8 @@
     * [Diary](main-menu/contacts-1/contact-view/diary.md)
     * [Queries](main-menu/contacts-1/contact-view/queries.md)
     * [Invoices](main-menu/contacts-1/contact-view/invoices.md)
+  * [How To](main-menu/contacts-1/how-to/README.md)
+    * [Add a Contact](main-menu/contacts-1/how-to/add-a-contact.md)
 * [Venues](main-menu/venues-1/README.md)
   * [List](main-menu/venues-1/untitled.md)
   * [Add/Edit](main-menu/venues-1/add-edit.md)
@@ -101,6 +103,7 @@
 * [Directory](misc./directory.md)
 * [Documents](misc./documents.md)
 * [Word Templates](misc./word-templates.md)
+* [SMS](misc./sms.md)
 
 ## Help
 
