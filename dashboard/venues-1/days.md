@@ -15,7 +15,7 @@ Click the![](../../.gitbook/assets/docs_selectclinician01.png)dropdown and selec
 ## How do I create a bookable day?
 
 1. Click the![](../../.gitbook/assets/docs_selectclinician01.png)dropdown and select the clinician that you wish to create the days for.
-2. Then click the![](../../.gitbook/assets/docs_add01.png)button. This will add a line to the bookable days.
+2. Then click thebutton. This will add a line to the bookable days.
 3. First enter the date, this will automatically fill the start and end time of the bookable day. It gets this from the defaults set in [venue details](add-edit.md).
 4. \[optional\] You can edit the start time.
 5. \[optional\] You can edit the end time.
